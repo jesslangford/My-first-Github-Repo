@@ -5,8 +5,8 @@
 # usethis::create_github_token()
 # gitcreds::gitcreds_set()
 # usethis::gh_token_help()
-
-library(tidyverse)
-library(palmerpenguins)
-install.packages('tidyverse')
-install.packages('palmerpenguins')
+# 
+# library(tidyverse)
+# library(palmerpenguins)
+# install.packages('tidyverse')
+# install.packages('palmerpenguins')
